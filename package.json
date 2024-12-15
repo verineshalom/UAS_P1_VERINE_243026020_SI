@@ -1,0 +1,21 @@
+{
+  "name": "com.apimusic",
+  "version": "1.0.0",
+  "description": "uas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Verine",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "com.apimusic": "file:",
+    "express": "^4.21.2",
+    "express-validator": "^7.2.0",
+    "mysql2": "^3.11.5",
+    "npm-watch": "^0.13.0",
+    "validator": "^13.12.0",
+    "watcher": "^2.3.1"
+  }
+}
